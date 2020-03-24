@@ -1,0 +1,6 @@
+Name - OLUCHI SODEINDE
+Email - oluchined@gmail.com
+Slack username - LuchySho
+TRACKS AND COURSES
+Front End - HTML, CSS and JavaScript
+Back End - Python 
